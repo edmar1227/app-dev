@@ -1,5 +1,5 @@
-# H1 One Piece
-## H2 Overview
+# One Piece
+## Overview
 One Piece is a beloved Japanese anime and manga series created by Eiichiro Oda. It first began serialization in 1997 and has since become one of the most popular and longest-running series in history.
 
 Plot Summary
