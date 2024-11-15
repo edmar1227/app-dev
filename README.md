@@ -44,5 +44,6 @@ You can watch One Piece on:
 One Piece is not just a story about pirates; it's a tale of adventure, friendship, and the pursuit of dreams. With its rich world-building and memorable characters, it continues to inspire fans of all ages. Whether you're a newcomer or a long-time fan, there's always something exciting waiting in the world of One Piece!
 
 **Image**
+  
+![one piece](https://github.com/user-attachments/assets/297c6f2a-06bd-4ba1-8659-021541b15d81)
 
-![alt text](one piece.jpg)
