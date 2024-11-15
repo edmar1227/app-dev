@@ -9,9 +9,10 @@ One Piece is a beloved Japanese anime and manga series created by Eiichiro Oda. 
 
 **Key Themes**
 
-- Friendship: The strong bonds formed between Luffy and his crew, the Straw Hat Pirates.
-- Dreams: Each character has their own unique aspirations that drive their journey.
-- 
+- **Friendship:** The strong bonds formed between Luffy and his crew, the Straw Hat Pirates.
+- **Adventure:** The excitement of exploring the vast seas and discovering new islands.
+- **Dreams:** Each character has their own unique aspirations that drive their journey.
+
 **Main Characters**
   
 - Monkey D. Luffy: The optimistic captain with a dream of becoming the King of the Pirates.
