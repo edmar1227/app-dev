@@ -2,7 +2,7 @@
 ## Overview
 One Piece is a beloved Japanese anime and manga series created by Eiichiro Oda. It first began serialization in 1997 and has since become one of the most popular and longest-running series in history.
 
-Plot Summary
+**Plot Summary**
 The story follows Monkey D. Luffy, a young pirate with the ability to stretch his body like rubber after consuming the Gomu Gomu no Mi (Gum-Gum Fruit). Luffy sets out on a grand adventure to find the legendary treasure known as the One Piece and to become the King of the Pirates.
 
 Key Themes
@@ -15,13 +15,14 @@ Roronoa Zoro: The swordsman who aims to become the world's greatest swordsman.
 Nami: The skilled navigator and thief with a passion for cartography.
 Usopp: The sharpshooter and storyteller with a vivid imagination.
 Sanji: The talented cook who dreams of finding the All Blue, a legendary sea.
+
 *"I don’t want to conquer anything. I just think the guy with the most freedom in this whole ocean... is the King of the Pirates!" - Monkey D. Luffy*
 
-Fun Facts
+**Fun Facts**
 Fact	Description
-First Release	The manga began serialization in 1997.
-Episodes	As of October 2023, there are over 1000 episodes.
-Cultural Impact	One Piece is one of the best-selling manga series of all time.
+- First Release	The manga began serialization in 1997.
+- Episodes	As of October 2023, there are over 1000 episodes.
+- Cultural Impact	One Piece is one of the best-selling manga series of all time.
 Where to Watch
 You can watch One Piece on:
 
