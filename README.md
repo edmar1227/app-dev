@@ -15,11 +15,11 @@ One Piece is a beloved Japanese anime and manga series created by Eiichiro Oda. 
 
 **Main Characters**
   
-- Monkey D. Luffy: The optimistic captain with a dream of becoming the King of the Pirates.
-- Roronoa Zoro: The swordsman who aims to become the world's greatest swordsman.
-- Nami: The skilled navigator and thief with a passion for cartography.
-- Usopp: The sharpshooter and storyteller with a vivid imagination.
-- Sanji: The talented cook who dreams of finding the All Blue, a legendary sea.
+- **Monkey D. Luffy:** The optimistic captain with a dream of becoming the King of the Pirates.
+- **Roronoa Zoro:** The swordsman who aims to become the world's greatest swordsman.
+- **Nami:** The skilled navigator and thief with a passion for cartography.
+- **Usopp:** The sharpshooter and storyteller with a vivid imagination.
+- **Sanji:** The talented cook who dreams of finding the All Blue, a legendary sea.
 
 *"I don’t want to conquer anything. I just think the guy with the most freedom in this whole ocean... is the King of the Pirates!" - Monkey D. Luffy*
 
