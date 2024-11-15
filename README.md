@@ -35,7 +35,8 @@ One Piece is a beloved Japanese anime and manga series created by Eiichiro Oda. 
 
 You can watch One Piece on:
 
-[One Piece]([https://www.example.com](https://www.crunchyroll.com/series/GRMG8ZQZR/one-piece)
+[One Piece](https://www.crunchyroll.com/series/GRMG8ZQZR/one-piece)
+
 Netflix
 
 Conclusion
